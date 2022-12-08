@@ -1,1 +1,2 @@
 # clutch-linkedin-and-instagram-
+This is a project from a client and I'm only working on a partial solution. Client requests to extract full list of companies from Clutch, some fields/data that are in clutch, then link their linkedin profile with number of employees, and location data, also link their Instagram with number of followers. There are 20k total rows, but I'm only going to work on a few rows.
